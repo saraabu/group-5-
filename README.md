@@ -2,6 +2,8 @@
 #### The analysis of Coronavirus data by Group 5
 # 
 ## General Info
+Our project aims to analyze Coronavirus data and here are the tasks we need to complete
+
 Tasks to do
 
 (Project Stage I)
@@ -18,9 +20,13 @@ make sure to have reports on each task/step etc
 
 turn it in
 
-##### Group Members: Sara Abukhalaf, Amna Sohail, Jennifer Galicia-Torres, Natalie Hildreth, Kannan Thilak
+##### Group Members: 
+# Sara Abukhalaf 
+# Amna Sohail
+# Jennifer Galicia-Torres 
+# Natalie Hildreth 
+# Kannan Thilak
 
-Our project aims to analyze Coronavirus data (more to be added later)
 
 ## Technologies Used:
 Jupyter Notebook python 3
@@ -28,8 +34,8 @@ Jupyter Notebook python 3
 youtube, https://github.com/q-tong/Fall2024DataSicence/tree/main/Lecture  for pandas,numpy, statistics
 
 https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/  (covid 19 data)
-https://www.kaggle.com/unanimad/us-election-2020 (presidential election dataset) - sara abukhalaf
-https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (census demographic acs dataset) - amna sohail
-https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (ACS Social, Economic, and Housing) - jennifer 
-https://data.bls.gov/cew/data/files/2020/csv/2020_annual_by_area.zip  for 2020 (employment dataset) - natalie & kannan
+https://www.kaggle.com/unanimad/us-election-2020 (presidential election dataset) - Sara Abukhalaf
+https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (census demographic acs dataset) - Amna Sohail
+https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (ACS Social, Economic, and Housing) - Jennifer Galicia-Torres
+https://data.bls.gov/cew/data/files/2020/csv/2020_annual_by_area.zip  for 2020 (employment dataset) - Natalie Hildreth  & Kannan Thilak
 
