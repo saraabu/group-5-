@@ -21,11 +21,11 @@ make sure to have reports on each task/step etc
 turn it in
 
 ##### Group Members: 
-# Sara Abukhalaf 
-# Amna Sohail
-# Jennifer Galicia-Torres 
-# Natalie Hildreth 
-# Kannan Thilak
+##### Sara Abukhalaf 
+##### Amna Sohail
+##### Jennifer Galicia-Torres 
+##### Natalie Hildreth 
+##### Kannan Thilak
 
 
 ## Technologies Used:
