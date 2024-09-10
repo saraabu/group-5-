@@ -29,4 +29,7 @@ youtube, https://github.com/q-tong/Fall2024DataSicence/tree/main/Lecture  for pa
 
 https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/  (covid 19 data)
 https://www.kaggle.com/unanimad/us-election-2020 (presidential election dataset) - sara abukhalaf
+https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (census demographic acs dataset) - amna sohail
+https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (ACS Social, Economic, and Housing) - jennifer 
+https://data.bls.gov/cew/data/files/2020/csv/2020_annual_by_area.zip  for 2020 (employment dataset) - natalie & kannan
 
