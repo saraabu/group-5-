@@ -4,7 +4,8 @@
 ## General Info
 
 # (Project Stage I) 
-### *** the teamwork notebook thats we all worked on is called Untitled_backup.ipynb ***
+teamwork project stage 1 includes the notebook that was group work and the csv file that was created
+- uploaded our individual work with our names to the folder 
 
 
 # (Project Stage II) 
