@@ -6,17 +6,6 @@
 # (Project Stage I) 
 ### *** the teamwork notebook thats we all worked on is called Untitled_backup.ipynb ***
 
-Understanding the COVID-19 Dataset: Look at the COVID-19 data and make a list of the key variables (like number of cases, deaths, and population).
-
-Create a data dictionary for each of these variables.
-
-Merge COVID-19 Data: In Jupyter Notebook, load the COVID-19 data (cases, deaths, population). and Combine all this data into one big dataset.
-
-Save the combined dataset as a CSV file.
-
-make sure to have reports on each task/step etc
-
-turn it in
 
 # (Project Stage II) 
 
