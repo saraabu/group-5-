@@ -7,7 +7,7 @@ Our project aims to analyze Coronavirus data and here are the tasks we need to c
 Tasks to do
 
 (Project Stage I) 
-# *** the teamwork notebook thats we all worked on is called Untitled_backup.ipynb ***
+### *** the teamwork notebook thats we all worked on is called Untitled_backup.ipynb ***
 
 Understanding the COVID-19 Dataset: Look at the COVID-19 data and make a list of the key variables (like number of cases, deaths, and population).
 
