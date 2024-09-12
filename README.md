@@ -2,11 +2,8 @@
 #### The analysis of Coronavirus data by Group 5
 # 
 ## General Info
-Our project aims to analyze Coronavirus data and here are the tasks we need to complete
 
-Tasks to do
-
-(Project Stage I) 
+# (Project Stage I) 
 ### *** the teamwork notebook thats we all worked on is called Untitled_backup.ipynb ***
 
 Understanding the COVID-19 Dataset: Look at the COVID-19 data and make a list of the key variables (like number of cases, deaths, and population).
@@ -20,6 +17,9 @@ Save the combined dataset as a CSV file.
 make sure to have reports on each task/step etc
 
 turn it in
+
+# (Project Stage I) 
+
 
 ##### Group Members: 
 ##### Sara Abukhalaf 
