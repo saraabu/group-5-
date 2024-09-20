@@ -9,6 +9,10 @@ Teamwork Project Stage 1 includes the notebook that was group work and the csv f
 
 
 # (Project Stage II) 
+teamwork will be named "teamwork stage 2"
+individual work will be named " (our name)  individual work stage 2"
+country chosen:
+Sara - jordan downloaded data set from https://ourworldindata.org/covid-cases
 
 
 ##### Group Members: 
