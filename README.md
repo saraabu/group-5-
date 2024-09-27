@@ -1,18 +1,7 @@
 # Group 5 - Covid Data Analysis
 #### The Analysis of Coronavirus Data by Group 5
 # 
-## General Info
 
-# (Project Stage I) 
-Teamwork Project Stage 1 includes the notebook that was group work and the csv file that was created
-- uploaded our individual work with our names to the folder 
-
-
-# (Project Stage II) 
-teamwork will be named "teamwork stage 2"
-individual work will be named " (our name)  individual work stage 2"
-country chosen:
-Sara - jordan downloaded data set from https://ourworldindata.org/covid-cases
 
 
 ##### Group Members: 
