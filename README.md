@@ -25,7 +25,7 @@ https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (census demograph
 
 https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05 (ACS Social, Economic, and Housing) - Jennifer Galicia-Torres
 
-https://data.bls.gov/cew/data/files/2020/csv/2020_annual_by_area.zip  for 2020 (employment dataset) - Natalie Hildreth  & Kannan Thilak
+https://data.bls.gov/cew/data/files/2020/csv/2020_annual_by_area.zip  for 2020 (employment dataset) - Natalie Hildreth
 
 https://ourworldindata.org/covid-cases - sara jordan dataset
 
