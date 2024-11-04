@@ -9,7 +9,6 @@
 ##### Amna Sohail
 ##### Jennifer Galicia-Torres 
 ##### Natalie Hildreth 
-##### Kannan Thilak
 
 
 ## Technologies Used:
